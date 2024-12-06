@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+}
+
+.product-form {
+  width: 50%;
+}
+
+.right-aligned {
+  justify-content: flex-end;
+}
